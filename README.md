@@ -7,4 +7,3 @@
 </ul>
 
 ## Live
-https://princesinghhub.github.io/MYWebResume/
